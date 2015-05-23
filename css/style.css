@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+ol {
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+  text-align: left;
+}
+
+.table {
+  color: red;
+  text-align: left;
+  margin-left: 5px;
+}
+
+.important {
+  background-color: green;
+  color: red;
+}
+
+.sections {
+  margin: 15px;
+  border-radius: 15px;
+  background-color: green;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+span {
+  text-align: center;
+  background-color: #33bebe;
+}
+
+h1 {
+  color: orange;
+}
